@@ -147,7 +147,7 @@ While this project partially modifies the code from [auto-drift](https://github.
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the GPL License. See the `LICENSE` file for details.
 
 ---
 
