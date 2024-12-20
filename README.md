@@ -151,10 +151,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Reference:
-
-If you're exploring the theoretical background, consider reading **S. Zhao et al., "A Harmonized Approach: Beyond-the-Limit Control for Autonomous Vehicles Balancing Performance and Safety in Unpredictable Environments," in IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 11, pp. 15827-15840, Nov. 2024, doi: 10.1109/TITS.2024.3419108.**
-
 ## Acknowledgements
 
 - [Carsim](https://www.carsim.com/) for providing advanced vehicle simulation.
