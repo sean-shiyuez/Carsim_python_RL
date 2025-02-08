@@ -41,7 +41,7 @@ You must install MATLAB Engine for Python to enable communication with MATLAB. R
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <https://github.com/your-repo/carsim-simulation.git>
+git clone <https://github.com/sean-shiyuez/Carsim_python_RL.git>
 cd carsim-simulation
 ```
 
